@@ -1,0 +1,2 @@
+markdonw: redcarpet
+exclude: ['README.md', 'LICENCE.md']
